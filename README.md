@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
