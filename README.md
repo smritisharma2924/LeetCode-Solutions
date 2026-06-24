@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
