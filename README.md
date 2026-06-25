@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
