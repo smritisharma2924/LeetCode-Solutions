@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 ## Simulation
 |  |
 | ------- |
