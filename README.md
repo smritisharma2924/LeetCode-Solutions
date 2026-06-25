@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
 | ------- |
