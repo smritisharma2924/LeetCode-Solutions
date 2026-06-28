@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
