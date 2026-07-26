@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
