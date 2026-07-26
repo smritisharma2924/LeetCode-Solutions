@@ -88,5 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3813-vowel-consonant-score](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
