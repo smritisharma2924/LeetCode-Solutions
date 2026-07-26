@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3492-maximum-containers-on-a-ship](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
+| [3516-find-closest-person](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
