@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
