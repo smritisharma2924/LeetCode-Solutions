@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1518-water-bottles) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -110,8 +112,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
