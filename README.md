@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
