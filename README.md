@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0504-base-7) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3813-vowel-consonant-score](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
