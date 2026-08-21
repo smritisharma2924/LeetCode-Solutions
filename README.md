@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
