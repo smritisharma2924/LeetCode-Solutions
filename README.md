@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0476-number-complement) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
