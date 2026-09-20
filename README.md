@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0912-sort-an-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Ternary Search
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
