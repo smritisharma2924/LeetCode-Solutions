@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1512-number-of-good-pairs](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Tournament Sort
 |  |
 | ------- |
