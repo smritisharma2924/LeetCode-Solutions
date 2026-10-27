@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3813-vowel-consonant-score](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0686-repeated-string-match](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3813-vowel-consonant-score](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
