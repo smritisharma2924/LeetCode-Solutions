@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0686-repeated-string-match](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3813-vowel-consonant-score](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Counting
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
