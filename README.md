@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -257,10 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
