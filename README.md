@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3813-vowel-consonant-score](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Number Theory
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
