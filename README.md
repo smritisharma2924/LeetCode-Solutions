@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Brainteaser
 |  |
 | ------- |
@@ -328,10 +331,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/smritisharma2924/LeetCode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
